@@ -2,7 +2,8 @@
 
 ## Brainwave
 
-[![Product Name Screen Shot][product-screenshot]](/public/Project%20Screen%20Shot.png)
+<img width="932" alt="Project Screen Shot" src="https://github.com/Devdenice/brainwave-clone/assets/97163008/92fdc10e-4864-4266-be1a-142df9a8912e">
+
 
 <div>
  <h3 align="center">Modern UI/UX website</h3>
